@@ -1,6 +1,1 @@
-Git is a version control system.
-Git is free software.
-发士大夫
-dev分支应该看不到这行
-啦啊啦啦啦啦
-啊手动阀手动阀
+采用微服务架构，使用了eureka服务注册中心，ribbon和feign负载均衡，Hystrix断路器
