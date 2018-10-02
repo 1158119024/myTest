@@ -1,1 +1,2 @@
 采用微服务架构，使用了eureka服务注册中心，ribbon和feign负载均衡，Hystrix断路器
+	嗯
